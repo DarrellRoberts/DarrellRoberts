@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarrellRoberts
-- 👀 I’m interested in both frontend and backend projects which are Javascript-based.
+- 👀 I’m interested in both frontend and backend projects which are JavaScript-based.
 - 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on any open source projects in the following languages or frameworks: JavaScript, node.js, React.js, Express.js.
 - 📫 How to reach me: mrdarrellroberts@gmail.com
