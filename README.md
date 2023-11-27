@@ -1,13 +1,13 @@
-English
+***English***
 - 👋 Hi, I’m @DarrellRoberts
 - 👀 I’m interested in both frontend and backend projects which are JavaScript-based.
 - 🌱 I’m currently learning Kubernetes and Java
 - 💞️ I’m looking to collaborate on any open source projects in the following languages or frameworks: JavaScript, TypeScript, node.js, React.js, Express.js.
 - 📫 How to reach me: mrdarrellroberts@gmail.com
 
-Deutsch
+***Deutsch***
 - 👋 Hey, ich bin @DarrellRoberts
-- 👀 Ich interessiere mich für beide frontend und backend-Projekte, die auf JavaScript basiert.
+- 👀 Ich interessiere mich für beide Frontend und Backend-Projekte, die auf JavaScript basiert.
 - 🌱 Ich lerne aktuell Kubernetes und Java
 - 💞️ Ich trage gern auf Projekte bei, die Open-Source sind. Für mich sind entsprechende Sprachen, Bibliotheken oder Frameworks sind: JavaScript, TypeScript, Node.js, React.js, Express.js.
 - 📫 Ich bin hier erreichbar: mrdarrellroberts@gmail.com
