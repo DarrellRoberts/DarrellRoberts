@@ -7,10 +7,10 @@
 
 ***Deutsch***
 - 👋 Hey, ich bin @DarrellRoberts
-- 👀 Ich interessiere mich für beide Frontend und Backend-Projekte, die auf JavaScript basiert.
-- 🌱 Ich lerne aktuell Kubernetes und Java
-- 💞️ Ich trage gern auf Projekte bei, die Open-Source sind. Für mich sind entsprechende Sprachen, Bibliotheken oder Frameworks sind: JavaScript, TypeScript, Node.js, React.js, Express.js.
-- 📫 Ich bin hier erreichbar: mrdarrellroberts@gmail.com
+- 👀 Ich bin sowohl an Frontend- als auch Backend-Projekten interessiert, die auf JavaScript basieren.
+- 🌱 Ich lerne gerade Kubernetes und Java
+- 💞️ Ich trage gern zu Projekten bei, die Open Source sind. Für mich sind relevante Sprachen, Bibliotheken oder Frameworks: JavaScript, TypeScript, Node.js, React.js, Express.js.
+- 📫 Ich bin hier zu erreichen: mrdarrellroberts@gmail.com
 
 [![An image of @darrellroberts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darrellroberts)](https://holopin.io/@darrellroberts)
 <!---
