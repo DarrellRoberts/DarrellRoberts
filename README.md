@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/nLOhBjW.jpg" alt="DarrellRoberts" width="846" height="275" />
+<img src="https://i.imgur.com/nLOhBjW.jpg" alt="DarrellRoberts" width="846" height="375" />
 
 ***English***
 - 👋 Hi, I’m @DarrellRoberts
