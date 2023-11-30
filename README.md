@@ -20,7 +20,7 @@
 ### <b>My GitHub Stats</b>
 <a
 href="http://www.github.com/DarrellRoberts"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=DarrellRoberts&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/DarrellRoberts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrellRoberts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+src="https://github-readme-streak-stats.herokuapp.com/?user=DarrellRoberts&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=neon" /></a><a href="https://github.com/DarrellRoberts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrellRoberts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=neon" alt="Top Languages" /></a>
 [![Darrell's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrellRoberts&theme=neon&show_icons=true)](https://github.com/DarrellRoberts/github-readme-stats)
 [![An image of @darrellroberts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darrellroberts)](https://holopin.io/@darrellroberts)
 <!---
