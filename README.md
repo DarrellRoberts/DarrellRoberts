@@ -1,4 +1,4 @@
-### DARRELL ROBERTS
+[DarrellRoberts](https://i.imgur.com/nLOhBjW.jpg)
 
 ***English***
 - 👋 Hi, I’m @DarrellRoberts
